@@ -1,1 +1,2 @@
 # Grade_card_struct
+This is a project that contains the marks of 10 students in 5 subjects and 3 tests(ISA1,ISA2,ESA). The first option displays the marks of a particular student taking user input. The second option helps to add data of a new student. The third option helps to update the marks of a student in a particular test and subject. The fourth option displays the sgpa of a particular student.
